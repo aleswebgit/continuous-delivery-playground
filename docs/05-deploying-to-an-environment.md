@@ -113,4 +113,4 @@ jobs:
 - [x] Add the deploy:simulate tasks in the NPM scripts declaration
 - [x] Add the automated deployment job to the CD pipeline
 - [x] Push the changes and check the pipeline logs in the Actions tab
-- [ ] Answer this question: Is the pipeline implementing continuous delivery or continuous deployment?
+- [x] Answer this question: Is the pipeline implementing continuous delivery or continuous deployment?
