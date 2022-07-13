@@ -38,4 +38,4 @@ and then open http://localhost:3000 to check our modern web app.
 - [x] Read the instructions
 - [x] Build the application locally
 - [x] Run the unit tests locally
-- [ ] Deploy the application locally in development mode
+- [x] Deploy the application locally in development mode
