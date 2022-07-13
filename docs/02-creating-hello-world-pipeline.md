@@ -80,5 +80,5 @@ triggers are specified events that can range from creating a pull request to bui
 
 - [x] Read the instructions
 - [x] Create folder structure
-- [ ] Create a github workflow
+- [x] Create a github workflow
 - [ ] Push the changes and check the pipeline execution in the Actions tab
